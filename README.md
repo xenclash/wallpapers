@@ -1,4 +1,4 @@
-🎨 My Unix Wallpapers by [Xenclash]
+🎨 My Unix Wallpapers by [xenclash]
 
 Welcome to my personal collection of Unix inspired wallpapers! This repository showcases a selection of my favorite high quality, wallpapers.
 
