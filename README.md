@@ -4,7 +4,7 @@ Welcome to my personal collection of Linux inspired wallpapers! This repository 
 
 📸 Wallpapers Collection
 
-These wallpapers are perfect for users who appreciate the aesthetic of Unix terminals, system processes, and code. They are available in various resolutions for all your desktop needs.
+These wallpapers are perfect for users who appreciate the aesthetic of Linux terminals, system processes, and code. They are available in various resolutions for all your desktop needs.
 
 Available Resolutions
 
