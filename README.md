@@ -4,7 +4,7 @@ Welcome to my personal collection of Unix inspired wallpapers. This repository s
 
 📸 Wallpaper Collection
 
-These wallpapers are perfect for users who appreciate the aesthetic of Unix desktops, system processes, and ricing. They are available in various resolutions for all your desktop needs.
+These wallpapers are perfect for users who appreciate the aesthetic of Unix desktops, system processes, and ricing. They are available in various resolutions for all your desktop needs. Feel free to contribute if you want!
 
 Available Resolutions
 
